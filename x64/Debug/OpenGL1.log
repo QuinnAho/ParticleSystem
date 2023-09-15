@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\quinn\Documents\Code\Projects\OpenGL1\OpenGL1\main.cpp(26,36): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\quinn\Documents\Code\Projects\OpenGL1\OpenGL1\main.cpp(27,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OpenGL1.vcxproj -> C:\Users\quinn\Documents\Code\Projects\OpenGL1\x64\Debug\OpenGL1.exe
